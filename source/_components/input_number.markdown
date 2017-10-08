@@ -43,6 +43,8 @@ Configuration variables:
   - **initial** (*Optional*): Initial value when Home Assistant starts. Defaults to 0.
   - **step** (*Optional*): Step value for the slider. Defaults to 1.
   - **mode** (*Optional*): Can specify `box`, or `slider`. Defaults to `slider`.
+  - **unit_of_measurement** (*Optional*): Unit of measurement in which the value of the slider is expressed in.
+  - **icon** (*Optional*): Icon to display in front of the box/slider in the frontend.
 
 ## {% linkable_title Automation Examples %}
 
